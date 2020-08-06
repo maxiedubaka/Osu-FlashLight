@@ -1,0 +1,10 @@
+C:\Users\maxdu\source\repos\flashlight\flashlight\bin\Debug\flashlight.exe.config
+C:\Users\maxdu\source\repos\flashlight\flashlight\bin\Debug\flashlight.exe
+C:\Users\maxdu\source\repos\flashlight\flashlight\bin\Debug\flashlight.pdb
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.csprojAssemblyReference.cache
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.Form1.resources
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.Properties.Resources.resources
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.csproj.GenerateResource.cache
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.csproj.CoreCompileInputs.cache
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.exe
+C:\Users\maxdu\source\repos\flashlight\flashlight\obj\Debug\flashlight.pdb
